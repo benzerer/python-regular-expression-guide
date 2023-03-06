@@ -1,2 +1,4 @@
-# python-regular-expression-guide
-Public พื้นฐาน regular expression ใน python (สอน KMUTNB 2023-03)
+# พื้นฐาน regular expression ใน python
+(KMUTNB 2023-03 :: NLP in python)
+
+- เนื้อหาอยู่ใน regex.ipynb
