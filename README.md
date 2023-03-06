@@ -5,6 +5,8 @@
 
 ## ตารางตัวกำกับ (special characters) ของ regex ใน python
 
+(เฉพาะที่ใช้บ่อย)
+
 | ประเภท | ตัวกำกับ | ความหมาย |
 | - | - | - |
 | Character classes | [ABC] | จับตัวอักษรใดตัวอักษรหนึ่งในกลุ่มตัวอักษรนี้ |
@@ -16,7 +18,7 @@
 | Character classes | \W | เทียบเท่ากับ [^A-Za-z0-9] |
 | Character classes | \d | เทียบเท่ากับ [0-9] |
 | Character classes | \D | เทียบเท่ากับ [^0-9] |
-| Character classes | . | แทนตัวอักษรใดก็ได้ (wild card character) |
+| Character classes | . | แทนตัวอักษรใดก็ได้ (wild card character) ยกเว้น `\n`|
 | Anchor | ^ | ขึ้นต้นบรรทัด |
 | Anchor | \$ | สิ้นสุดบรรทัด |
 | Anchor | \b | boundary ระหว่าง word และ non-word character (A-Za-z0-9) |
@@ -46,7 +48,18 @@
 | Lookaround | (?<=ABC) | positive lookbehind `(?<=pre)process` จะจับ `process` ที่อยู่ในคำว่า `preprocess` เท่านั้น |
 | Lookaround | (?<!...) | negative lookbehind `(?<!pre)process` จะจับ `process` ที่ไม่มี pre นำหน้าเท่านั้น |
 
+## ตารางตัวกำกับ (special characters) ของ regex ใน python
+
+(เฉพาะที่ใช้บ่อย)
+
+| Flag | ความหมาย |
+| - | - |
+| re.I, re.IGNORECASE | มอง A-Z กับ a-z เป็นตัวอักษรชุดเดียวกัน |
+| re.M, re.MULTILINE | มองข้ามการขึ้นบรรทัดใหม่ทุกรูปแบบ |
+| re.S, re.DOTALL | `.` มอง `\n` เป็นตัวอักษรตัวหนึ่ง |
+
 ## Unicode ที่ใช้บ่อย
+
 - [ภาษาอังกฤษและเลขอารบิก](https://jrgraphix.net/r/Unicode/0020-007F)
 - [ภาษาไทย](https://jrgraphix.net/r/Unicode/0E00-0E7F)
 - [สกุลเงิน](https://jrgraphix.net/r/Unicode/20A0-20CF)
