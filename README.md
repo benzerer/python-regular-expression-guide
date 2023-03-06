@@ -48,7 +48,7 @@
 | Lookaround | (?<=ABC) | positive lookbehind `(?<=pre)process` จะจับ `process` ที่อยู่ในคำว่า `preprocess` เท่านั้น |
 | Lookaround | (?<!...) | negative lookbehind `(?<!pre)process` จะจับ `process` ที่ไม่มี pre นำหน้าเท่านั้น |
 
-## ตารางตัวกำกับ (special characters) ของ regex ใน python
+## ตาราง regex flag ที่ใช้ใน python
 
 (เฉพาะที่ใช้บ่อย)
 
