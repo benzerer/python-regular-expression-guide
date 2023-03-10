@@ -21,7 +21,7 @@
 | Character classes | . | แทนตัวอักษรใดก็ได้ (wild card character) ยกเว้น `\n`|
 | Anchor | ^ | ขึ้นต้นบรรทัด |
 | Anchor | \$ | สิ้นสุดบรรทัด |
-| Anchor | \b | boundary ระหว่าง word และ non-word character (A-Za-z0-9ก-ฮ) |
+| Anchor | \b | boundary ระหว่าง word และ non-word character (A-Za-z0-9ก-ฮ_) |
 | Escaped characters | \\+, \\-, \\. | ไม่อยากให้ตัวอักษรพิเศษถูกใช้งานเป็นตัวกำกับ เช่น - + ^ $ . |
 | Escaped characters | \uFFFF | match ตัวอักษรด้วย unicode, FFFF แทนที่ด้วย [unicode](https://jrgraphix.net/r/Unicode/0020-007F) |
 | Escaped characters | \t | tab |
