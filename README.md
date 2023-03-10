@@ -28,7 +28,6 @@
 | Escaped characters | \n | new line |
 | Escaped characters | \f | form feed |
 | Escaped characters | \r | carriage return |
-| Escaped characters | \0 | null character |
 | Groups and references | (ABC) | จัดตัวอักษรด้านในวงเล็บให้เป็นกลุ่มเดียวกัน (มีผลเวลา match แล้วดึงออกมา) |
 | Groups and references | \1, \2 | อ้างอิงถึงกลุ่มที่เคยถูกจัดไว้ด้านหน้า แต่ไม่ได้ตั้งชื่อ เรียงตามลำดับ |
 | Groups and references | (?P\<name\>) | จัดตัวอักษรด้านในวงเล็บให้เป็นกลุ่มเดียวกัน และตั้งชื่อให้ (มีผลเวลา match แล้วดึงออกมา) |
