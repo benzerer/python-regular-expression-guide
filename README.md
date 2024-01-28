@@ -9,6 +9,8 @@
 
 | ประเภท | ตัวกำกับ | ความหมาย |
 | - | - | - |
+| Character classes | A | จับตัวอักษร A |
+| Character classes | ก | จับตัวอักษร ก |
 | Character classes | [ABC] | จับตัวอักษรใดตัวอักษรหนึ่งในกลุ่มตัวอักษรนี้ |
 | Character classes | [^abc] | จับตัวอักษรใดใดก็ตามที่ไม่อยู่ในกลุ่มตัวอักษรนี้ |
 | Character classes | [A-Z] | จับตัวอักษร A-Z เรียงตาม [unicode](https://jrgraphix.net/r/Unicode/0020-007F) |
