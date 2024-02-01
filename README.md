@@ -1,8 +1,10 @@
 # พื้นฐาน regular expression ใน python
-(KMUTNB 2023-03 :: NLP in python)
 
-- [Pattern Workshop](https://kmutnb-regex-workshop.streamlit.app/)
+(KMUTNB 2023-03 :: NLP in python)
 - [Colab Notebook - Python](https://colab.research.google.com/github/benzerer/python-regular-expression-guide/blob/main/regex.ipynb)
+
+(KMUTNB 2024-02 :: NLP in python)
+- [Pattern Workshop](https://kmutnb-regex-workshop.streamlit.app/)
 
 ## ตารางตัวกำกับ (special characters) ของ regex ใน python
 
