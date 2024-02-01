@@ -68,3 +68,7 @@
 - [สัญลักษณ์/Emoji 1](https://jrgraphix.net/r/Unicode/2300-23FF)
 - [สัญลักษณ์/Emoji 2](https://jrgraphix.net/r/Unicode/2600-26FF)
 - [สัญลักษณ์/Emoji 3](https://jrgraphix.net/r/Unicode/2700-27BF)
+
+## Reference
+
+- [Python official documentation - v3.8](https://docs.python.org/3.8/library/re.html#regular-expression-syntax)
