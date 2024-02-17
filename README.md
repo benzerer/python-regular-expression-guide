@@ -6,18 +6,6 @@ KMUTNB 2023-03 :: NLP in python
 KMUTNB 2024-02 :: NLP in python `new`
 - [Pattern Workshop](https://kmutnb-regex-workshop.streamlit.app/)
 
-## แถม
-### Low code EDA
-- `super easy` [YData profiling FKA. pandas profiling](https://docs.profiling.ydata.ai/latest/)
-- `super easy` [D-Tale](https://github.com/man-group/dtale)
-### Free Open Source Data Labeling tool
-- `super easy` [Label Studio](https://labelstud.io/)
-### Free Open Source CDP
-- `advanced` [Tracardi](https://tracardi.com/) (javascript frameworks knowledge required)
-### Interactive Web UI with Python
-- `super easy` [Streamlit](https://streamlit.io/)
-- `advanced` [Dash by plotly](https://dash.plotly.com/)
-
 ## ตารางตัวกำกับ (special characters) ของ regex ใน python
 
 (เฉพาะที่ใช้บ่อย)
@@ -86,3 +74,15 @@ KMUTNB 2024-02 :: NLP in python `new`
 ## Reference
 
 - [Python official documentation - v3.8](https://docs.python.org/3.8/library/re.html#regular-expression-syntax)
+
+## แถม
+### Low code EDA
+- `super easy` [YData profiling FKA. pandas profiling](https://docs.profiling.ydata.ai/latest/)
+- `super easy` [D-Tale](https://github.com/man-group/dtale)
+### Free Open Source Data Labeling tool
+- `super easy` [Label Studio](https://labelstud.io/)
+### Free Open Source CDP
+- `advanced` [Tracardi](https://tracardi.com/) (javascript frameworks knowledge required)
+### Interactive Web UI with Python
+- `super easy` [Streamlit](https://streamlit.io/)
+- `advanced` [Dash by plotly](https://dash.plotly.com/)
