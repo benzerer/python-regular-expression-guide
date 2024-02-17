@@ -8,15 +8,15 @@ KMUTNB 2024-02 :: NLP in python `new`
 
 **แถม**
 - Low code EDA
-  - [YData profiling FKA. pandas profiling](https://docs.profiling.ydata.ai/latest/) `super easy`
-  - [D-Tale](https://github.com/man-group/dtale) `super easy`
+  - `super easy` [YData profiling FKA. pandas profiling](https://docs.profiling.ydata.ai/latest/)
+  - `super easy` [D-Tale](https://github.com/man-group/dtale)
 - Free Open Source Data Labeling tool
-  - [Label Studio](https://labelstud.io/) `super easy`
+  - `super easy` [Label Studio](https://labelstud.io/)
 - Free Open Source CDP
-  - [Tracardi](https://tracardi.com/) `advanced` `javascript knowledge required`
+  - `advanced` [Tracardi](https://tracardi.com/) (javascript frameworks knowledge required)
 - Interactive Web UI with Python
-  - [Streamlit](https://streamlit.io/) `super easy`
-  - [Dash by plotly](https://dash.plotly.com/) `advanced`
+  - `super easy` [Streamlit](https://streamlit.io/)
+  - `advanced` [Dash by plotly](https://dash.plotly.com/)
 
 ## ตารางตัวกำกับ (special characters) ของ regex ใน python
 
