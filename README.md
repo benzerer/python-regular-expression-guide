@@ -127,3 +127,5 @@ KMUTNB 2024-02 :: NLP in python `new`
 - `advanced` [fast json schema](https://horejsek.github.io/python-fastjsonschema/)
 ### Structured logging
 - `advanced` [struclog](https://www.structlog.org/en/stable/)
+### Pre-commit hooks
+- `advanced` [pre-commit](https://pre-commit.com/)
