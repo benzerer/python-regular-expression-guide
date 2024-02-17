@@ -6,6 +6,10 @@
 (KMUTNB 2024-02 :: NLP in python)
 - [Pattern Workshop](https://kmutnb-regex-workshop.streamlit.app/)
 
+Low code EDA (แถม)
+- [YData profiling FKA. pandas profiling](https://docs.profiling.ydata.ai/latest/)
+- [D-Tale](https://github.com/man-group/dtale)
+
 ## ตารางตัวกำกับ (special characters) ของ regex ใน python
 
 (เฉพาะที่ใช้บ่อย)
