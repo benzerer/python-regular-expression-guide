@@ -109,6 +109,7 @@ KMUTNB 2024-02 :: NLP in python `new`
 - `advanced` [Dash by plotly](https://dash.plotly.com/)
 ### Speed up your Pandas
 - `super easy` [Pandarallel](https://github.com/nalepae/pandarallel)
+- `super easy` [Modin](https://modin.readthedocs.io/en/latest/index.html)
 ### Optimize data storage
 - `super easy` [Parquet](https://pandas.pydata.org/docs/reference/io.html#parquet)
 ### Speed up and optimize your python
