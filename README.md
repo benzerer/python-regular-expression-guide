@@ -96,3 +96,5 @@ KMUTNB 2024-02 :: NLP in python `new`
 - `common` [Scipy](https://scipy.org/)
 ### ASGI
 - `advanced` [Sanic](https://sanic.dev/en/)
+### Package management
+- `super easy` [Pipenv](https://pipenv.pypa.io/en/latest/)
