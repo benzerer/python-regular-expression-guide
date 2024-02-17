@@ -129,3 +129,5 @@ KMUTNB 2024-02 :: NLP in python `new`
 - `advanced` [struclog](https://www.structlog.org/en/stable/)
 ### Pre-commit hooks
 - `advanced` [pre-commit](https://pre-commit.com/)
+### Load testing
+- `advanced` [locust](https://docs.locust.io/en/stable/)
