@@ -1,20 +1,22 @@
 # พื้นฐาน regular expression ใน python
 
-(KMUTNB 2023-03 :: NLP in python)
+KMUTNB 2023-03 :: NLP in python
 - [Colab Notebook - Python](https://colab.research.google.com/github/benzerer/python-regular-expression-guide/blob/main/regex.ipynb)
 
-(KMUTNB 2024-02 :: NLP in python)
+KMUTNB 2024-02 :: NLP in python `new`
 - [Pattern Workshop](https://kmutnb-regex-workshop.streamlit.app/)
 
-Low code EDA (แถม)
-- [YData profiling FKA. pandas profiling](https://docs.profiling.ydata.ai/latest/)
-- [D-Tale](https://github.com/man-group/dtale)
-
-Free Open Source Data Labeling tool (แถม)
-- [Label Studio](https://labelstud.io/)
-
-Free Open Source CDP (แถม)
-- [Tracardi](https://tracardi.com/)
+**แถม**
+- Low code EDA
+  - [YData profiling FKA. pandas profiling](https://docs.profiling.ydata.ai/latest/) `super easy`
+  - [D-Tale](https://github.com/man-group/dtale) `super easy`
+- Free Open Source Data Labeling tool
+  - [Label Studio](https://labelstud.io/) `super easy`
+- Free Open Source CDP
+  - [Tracardi](https://tracardi.com/) `advanced` `javascript knowledge required`
+- Interactive Web UI with Python
+  - [Streamlit](https://streamlit.io/) `super easy`
+  - [Dash by plotly](https://dash.plotly.com/) `advanced`
 
 ## ตารางตัวกำกับ (special characters) ของ regex ใน python
 
