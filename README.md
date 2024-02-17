@@ -10,8 +10,11 @@ Low code EDA (แถม)
 - [YData profiling FKA. pandas profiling](https://docs.profiling.ydata.ai/latest/)
 - [D-Tale](https://github.com/man-group/dtale)
 
-Open Source Data Labeling tool (แถม)
+Free Open Source Data Labeling tool (แถม)
 - [Label Studio](https://labelstud.io/)
+
+Free Open Source CDP (แถม)
+- [Tracardi](https://tracardi.com/)
 
 ## ตารางตัวกำกับ (special characters) ของ regex ใน python
 
