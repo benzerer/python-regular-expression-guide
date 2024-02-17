@@ -98,3 +98,5 @@ KMUTNB 2024-02 :: NLP in python `new`
 - `advanced` [Sanic](https://sanic.dev/en/)
 ### Package management
 - `super easy` [Pipenv](https://pipenv.pypa.io/en/latest/), [intro to pipenv](https://www.nopdan.ai/post/python/use-pipenv/)
+### Time series and forecasting
+- `super easy` [Prophet](https://facebook.github.io/prophet/)
