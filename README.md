@@ -110,6 +110,7 @@ KMUTNB 2024-02 :: NLP in python `new`
 ### Speed up your Pandas
 - `super easy` [Pandarallel](https://github.com/nalepae/pandarallel)
 - `super easy` [Modin](https://modin.readthedocs.io/en/latest/index.html)
+- how to choose? [Read this](https://medium.com/swlh/6-ways-to-significantly-speed-up-pandas-with-a-couple-lines-of-code-part-2-7a9e41ba76dc)
 ### Optimize data storage
 - `super easy` [Parquet](https://pandas.pydata.org/docs/reference/io.html#parquet)
 ### Speed up and optimize your python
@@ -122,9 +123,9 @@ KMUTNB 2024-02 :: NLP in python `new`
 - `super easy` [Pipenv](https://pipenv.pypa.io/en/latest/), [intro to pipenv](https://www.nopdan.ai/post/python/use-pipenv/)
 ### Time series and forecasting
 - `super easy` [Prophet](https://facebook.github.io/prophet/)
-### Fastest json seralize/deserializer
+### Fastest JSON serializer/deserializer
 - `super easy` [orjson](https://github.com/ijl/orjson)
-### Json schema validator
+### JSON schema validator
 - `advanced` [fast json schema](https://horejsek.github.io/python-fastjsonschema/)
 ### Structured logging
 - `advanced` [struclog](https://www.structlog.org/en/stable/)
