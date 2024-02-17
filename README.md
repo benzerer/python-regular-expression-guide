@@ -121,3 +121,5 @@ KMUTNB 2024-02 :: NLP in python `new`
 - `super easy` [Pipenv](https://pipenv.pypa.io/en/latest/), [intro to pipenv](https://www.nopdan.ai/post/python/use-pipenv/)
 ### Time series and forecasting
 - `super easy` [Prophet](https://facebook.github.io/prophet/)
+### Faster json seralize/deserializer
+- `super easy` [orjson](https://github.com/ijl/orjson)
