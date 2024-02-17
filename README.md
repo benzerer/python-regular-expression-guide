@@ -86,3 +86,13 @@ KMUTNB 2024-02 :: NLP in python `new`
 ### Interactive Web UI with Python
 - `super easy` [Streamlit](https://streamlit.io/)
 - `advanced` [Dash by plotly](https://dash.plotly.com/)
+### Speed up your Pandas
+- `super easy` [Pandarallel](https://github.com/nalepae/pandarallel)
+### Optimize data storage
+- `super easy` [Parquet](https://pandas.pydata.org/docs/reference/io.html#parquet)
+### Speed up and optimize your python
+- `advanced` [Cpython](https://github.com/python/cpython)
+- `common` [Numpy](https://numpy.org/)
+- `common` [Scipy](https://scipy.org/)
+### ASGI
+- `advanced` [Sanic](https://sanic.dev/en/)
